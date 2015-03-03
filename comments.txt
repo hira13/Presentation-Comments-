@@ -1,0 +1,30 @@
+
+Questions/Comments on the Presentation by Grad Students on 3/9
+
+For each presentation write at least one of the following:
+A question about the research.
+A question about a module or function shown in the demo.
+A comment about a module or function shown in the demo as it relates to your project
+A suggestion for the presenter about ways a problem might be solved
+
+Robert:
+
+Mason:
+
+Annabel: Why did you scale it up by a 100 if you're running 50 simulations.
+Great presentation but very confusing, maybe break it down or explain a little more slowly.
+
+
+Kevin SDM Presentation:
+Pretty cool project. Why would you want to know where the species isn't, ie not use presense-only distribution?
+What does bio18 represent and why is it the most powerful variable? What are the variables you used for this program? How did you decide the grid size?
+
+Julia Sequence Similarity:
+Sea Urchins, searched genbank What is your research about, outside of this class?
+Would this program help with that or could it work with someone elses research if they put in a species and want to blast it?
+
+Sarah bacterial disease in Sealions:
+Fishers and fat levels to see if there is correlation. How did you deal with the data set not having an ID?
+I am struggling with dictionaries as well, how did you add the data set to it and then call it?
+Might be a dumb question, but why is there a correlation between blubber and food? Like what is a reason for it?
+
